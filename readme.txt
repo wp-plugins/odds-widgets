@@ -17,16 +17,16 @@ Odds Widgets plugin is an interface to the online API that allows you to configu
 
 To install 'Odds Widgets' plugin
 1. Upload 'odds-widgets' folder to the '/wp-content/plugins/' directory
-1. Activate the plugin through the 'Plugins' menu in WordPress admin
+2. Activate the plugin through the 'Plugins' menu in WordPress admin
 
 To setup a widget in WordPress admin:
 1. Go to Admin / Appearance / Widgets
-1. Drag an "Odds Widget" widget to the sidebar where you want it to appear
-1. In widget's config panel select sport, widget type and widget
-1. Select a widget style that better matches you site's color scheme
-1. Preview the widget
-1. Save the widget
-1. The widget should show in the selected sidebar on front on next refresh
+2. Drag an "Odds Widget" widget to the sidebar where you want it to appear
+3. In widget's config panel select sport, widget type and widget
+4. Select a widget style that better matches you site's color scheme
+5. Preview the widget
+6. Save the widget
+7. The widget should show in the selected sidebar on front on next refresh
 
 == Frequently Asked Questions ==
 
