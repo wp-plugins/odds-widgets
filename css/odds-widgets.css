@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+.odds_widgets_settings_form label {
+	display:block;
+	clear:both;
+	padding:5px 0 2px;
+}
+
+.odds_widgets_settings_form input, 
+.odds_widgets_settings_form select, 
+.odds_widgets_settings_form textarea {
+	margin-bottom:8px;
+}
+
+.ajax_loading {
+	display:block;
+	background:url(../images/ajax-loader.gif) no-repeat left center;
+	height:16px;
+	padding-top:10px;
+}
+
+.fra, 
+.ame {
+	display:none;
+}
+
+.widget_type_select_holder, 
+.widget_select_holder {
+	display:none;
+}
+
+.odds_widgets_settings_form .vis {
+	display:block;
+}
+
+.odds_widget_preview_holder {
+	padding:10px;
+	background:url(../images/trans_bg_50.png);
+	display:none;
+}
+.odds_widget_preview_holder_inner {
+	background:#fff;
+	padding:10px;
+}
+.odds_widgets_preview_close_button_holder {
+	clear:both;
+	padding:10px 0 0;
+	text-align:right;
+}
