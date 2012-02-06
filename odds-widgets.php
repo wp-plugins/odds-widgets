@@ -12,8 +12,6 @@ Version: 1.1
 Author URI: http://widgets.valuechecker.co.uk/
 */
 
-error_reporting(E_ALL); 
-
 /**
 * Check for function, class and constant definition confilcts 
 * and only load the rest of the plugin if no conflicts are found
