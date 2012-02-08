@@ -1,6 +1,6 @@
 === Odds Widgets ===
 Contributors: dionesku
-Tags: odds, bookies, sport odds, sport widgets, widgets
+Tags: odds, bookies, sport odds, sport widgets, widgets, betting, betting widgets, betting odds
 Requires at least: 2.8.0
 Tested up to: 3.3.1
 Stable tag: trunk
@@ -9,17 +9,20 @@ Odds Widgets plugin will allow you to create, configure and display live odds ta
 
 == Description ==
 
-Odds Widgets plugin is an interface to Valuechecker.co.uk Odds Widgets application which allows one to configure, build and place live odds widgets on any website through a small piece of JavaScript code. 
+Odds Widgets plugin is an interface to [Valuechecker.co.uk Odds Widgets](http://widgets.valuechecker.co.uk/) application which allows one to configure, build and place live odds widgets on any website through a small piece of JavaScript code. 
 The process is very simple and in less than 2 minutes you can display an odds widget on your website. 
 Odds Widgets plugin is an interface to the online API that allows you to configure, build and place odds widgets on your blog from within WP Widgets Admin
 
 == Installation ==
 
-To install 'Odds Widgets' plugin
-1. Upload 'odds-widgets' folder to the '/wp-content/plugins/' directory
+1. Install Odds Widgets plugin either via the WordPress.org plugin directory or by uploading 'odds-widgets' folder to the '/wp-content/plugins/' directory on your server
 2. Activate the plugin through the 'Plugins' menu in WordPress admin
+3. That's it! You're ready to show live odds on your blog! Check FAQ section for more info!
 
-To setup a widget in WordPress admin:
+== Frequently Asked Questions ==
+
+= How do I setup an odds widget on my blog =
+
 1. Go to Admin / Appearance / Widgets
 2. Drag an "Odds Widget" widget to the sidebar where you want it to appear
 3. In widget's config panel select sport, widget type and widget
@@ -27,8 +30,6 @@ To setup a widget in WordPress admin:
 5. Preview the widget
 6. Save the widget
 7. The widget should show in the selected sidebar on front on next refresh
-
-== Frequently Asked Questions ==
 
 = What versions of WordPress is this plugin compatible with? =
 
