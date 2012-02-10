@@ -3,7 +3,7 @@ Contributors: dionesku
 Tags: odds, bookies, sport odds, sport widgets, widgets, betting, betting widgets, betting odds
 Requires at least: 2.8.0
 Tested up to: 3.3.1
-Stable tag: trunk
+Stable tag: 1.1.1
 
 Odds Widgets plugin will allow you to create, configure and display live odds tables as widgets in your blog
 
@@ -57,3 +57,7 @@ The first time you refresh a page with a widget, you might notice the widget tak
 
 = 1.1 =
 * First release
+
+= 1.1.1 = 
+* Added a new type of widget: Matches List. You can now create and display widgets with lists of matches for the sports that feature this type of events
+* Narrowed down the widget preview window to closer match average sidebar width, so the widgets preview look more like they actually do when showing in your blog sidebar
