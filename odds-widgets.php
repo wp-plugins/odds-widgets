@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Odds Widgets
- * @version 1.1
+ * @version 1.1.1
  */
 /*
 Plugin Name: Odds Widgets
 Plugin URI: http://widgets.valuechecker.co.uk/wordpress-plugin/
 Description: Create and customize live updating sport odds widgets on your wordpress blog
 Author: Dragos Ionescu
-Version: 1.1
+Version: 1.1.1
 Author URI: http://widgets.valuechecker.co.uk/
 */
 
